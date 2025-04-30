@@ -4,7 +4,7 @@
 <h2>Quantitative Finance Projects</h2>
 
 - <b>Finance based projects</b>
-  - [Monte Carlo VaR Simulation](https://github.com/mihirranjan612)
+  - [Monte Carlo VaR Simulation](https://github.com/mihirranjan612/qiskit-metal)
   - [Options Pricing Model](https://github.com/mihirranjan612)
   - [Credit Risk Analysis](https://github.com/mihirranjan612)
 - <b>ML-AI based projects</b>
